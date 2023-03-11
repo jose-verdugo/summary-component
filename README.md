@@ -1,6 +1,11 @@
 ## Descripción
 
-Proyecto de la página de https://www.frontendmentor.io/ para practicar el uso de "media queries" realizado en HTML y SASS.
+Proyecto de la página de https://www.frontendmentor.io/ para practicar el uso de "media queries".
+
+## Tecnologías usadas
+
+![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
 
 ## Autor
 
