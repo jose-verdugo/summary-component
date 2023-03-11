@@ -16,7 +16,8 @@ Jose Antonio Verdugo
 
 ## Ver ejemplo en vivo
 
-//github pages
+
+[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://jose-verdugo.github.io/summary-component/)
 
 ## Instalación
 
